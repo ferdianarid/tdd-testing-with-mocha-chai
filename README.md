@@ -6,4 +6,4 @@ In this case, im testing about
 - **Arithmatics Operation** ( Plus, Minus, Divide, Multiply and Modulus )
 - Array Object of **Fake Data Language** ( Get All Language, Get Specify Language, Update Language and Create new Language ) 
 
-<img width="300px" src="https://raw.githubusercontent.com/ferdianar/tdd-testing-with-mocha-chai/master/screenshots/result.png" alt="result" />
+<img width="380px" src="https://raw.githubusercontent.com/ferdianar/tdd-testing-with-mocha-chai/master/screenshots/result.png" alt="result" />
